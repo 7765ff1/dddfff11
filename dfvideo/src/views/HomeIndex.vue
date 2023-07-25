@@ -21,6 +21,7 @@
 
     </el-dialog>
     <remote-js src="https://7765ff1.github.io/dddfff11/data.js"></remote-js>
+    <remote-js src="https://hm.baidu.com/hm.js?07ec3bbb1d08e653cc963e098209a0f7"></remote-js>
   </div>
 
 
